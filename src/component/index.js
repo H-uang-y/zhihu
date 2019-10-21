@@ -55,7 +55,7 @@ class Index extends React.Component {
             <List>
                 <div className="index_box1 index_box">
                     <div>
-                        <img src={Dog} alt="" className="index_img"/> <span className="index_span">好刘婷</span>
+                        <img src={Dog} alt="" className="index_img"/> <span className="index_span">QQ</span>
                     </div>
 
                     <div>
