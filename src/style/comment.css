@@ -1,0 +1,58 @@
+/*导航条部分*/
+.con_span{
+    color: #ffffff;
+    font-size: 0.36rem;
+    margin-left: 0.6rem;
+    margin-right: 3.5rem;
+}
+.con_h4{
+    margin-left: 0.3rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
+}
+/*手风琴*/
+.shou_div{
+    display: flex;
+}
+#shou_img1{
+    width: 0.8rem;
+    height: 0.8rem;
+}
+.shou_box{
+    margin-left: 0.2rem;
+    width: 5rem;
+}
+.shou_box_p{
+    color: #242424;
+    width: 5rem;
+    white-space: normal;
+}
+.shou_box_h3{
+    font-size: 0.34rem;
+}
+.shou_box_p1{
+    color: #b1b1b1;
+}
+.Zans{
+    width: 0.25rem;
+    height: 0.25rem;
+}
+.Zans_span{
+    color: #b3b3b3;
+    display: inline-block;
+    margin-left: 0.03rem;
+}
+.my-accordion .pad .am-accordion-content-box {
+    padding: 10px;
+}
+/*如果没有评论，显示的图片*/
+.Sofa_div{
+    height: 7.3rem;
+    display: none;
+}
+.Sofa_img{
+    display: block;
+    margin: 3.7rem auto;
+    width: 2rem;
+
+}
